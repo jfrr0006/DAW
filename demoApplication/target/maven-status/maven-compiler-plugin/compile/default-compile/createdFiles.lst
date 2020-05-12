@@ -1,0 +1,7 @@
+com\yrrhelp\models\Product.class
+com\yrrhelp\controllers\ProductController.class
+com\yrrhelp\models\User.class
+com\yrrhelp\services\ProductService.class
+com\yrrhelp\controllers\UserController.class
+com\yrrhelp\demoApplication\DemoApplication.class
+com\yrrhelp\controllers\HomeController.class
